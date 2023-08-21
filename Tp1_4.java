@@ -1,4 +1,4 @@
-public class tp1_4 {
+public class Tp1_4 {
     public class Nodo {
         private int valor;
         Nodo siguiente;
