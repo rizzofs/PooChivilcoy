@@ -10,6 +10,7 @@ public class Tp1 {
         }
     }
 
+
     public class ListaEnlazada {
         private Nodo cabeza;
         private int longitud;
